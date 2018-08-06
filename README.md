@@ -80,7 +80,9 @@ https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loa
 # References
 
 https://medium.com/@erikhallstrm/hello-world-tensorflow-649b15aed18c
+
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
 http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 

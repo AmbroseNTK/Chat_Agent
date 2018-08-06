@@ -20,7 +20,7 @@ Table of Contents
 * [Create Chat Agent](#create-chat-agent)
 * [Getting Dataset](#getting-dataset)
 * [Chat Data Structure](#chat-data-structure)
-* [Chat Buffer and Insert Logic](#chat-buffer)
+* [Chat Buffer and Insert Logic](#chat-buffer-and-insert-logic)
 * [Building Database](#building-database)
 * [Training the model](#training-the-model)
 * [Interacting with Chat Agent](#interacting-with-chat-agent)
@@ -130,10 +130,23 @@ Step 9d:When passed to neural networks to train.. it self scores all the answer 
 Step 10:Final Result
 ![img3](https://github.com/YangShyrMing/Chat_Agent/blob/master/tej15.jpeg)
 
+# Create Chat Agent
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/git1.PNG)
 
+# Chat Data Structure
+There is alot of unwanted information in the data we downloaded. So it must be cleaned. Thus, we perform data preprocessing  
+https://github.com/YangShyrMing/Chat_Agent/blob/master/t.PNG
 
+# Chat Buffer and Insert Logic
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/t1.PNG)
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/t3.PNG)
 
+# Building Database
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/t4.PNG)
 
+# Training the model
+We will get a set of question and answers in the form of 2 text files as text.to and text.from 
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/t5.PNG)
 
 
 # References

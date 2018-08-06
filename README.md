@@ -147,7 +147,10 @@ https://github.com/YangShyrMing/Chat_Agent/blob/master/t.PNG
 # Training the model
 We will get a set of question and answers in the form of 2 text files as text.to and text.from 
 ![](https://github.com/YangShyrMing/Chat_Agent/blob/master/t5.PNG)
-
+ 
+# Interacting with Chat Agent
+![](https://github.com/YangShyrMing/Chat_Agent/blob/master/op.PNG)
+ 
 
 # References
 

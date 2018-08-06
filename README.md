@@ -1,6 +1,6 @@
-# **Hybrid generative model for learning phrase representative human like conversation -- Chat_Agent **
+ #**Hybrid generative model for learning phrase reprsentative human like conversation -- Chat_Agent **
 
-#Overview
+**Overview**
 
 Basically,many emergency services,service company and ecommerce companies require helplines and people. But the catch here is… 
 Emergency disaster /natural disaster requires people to not only assure them help but also to guide them,  pacify them, and at the same 

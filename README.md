@@ -1,4 +1,4 @@
-# Hybrid generative model for learning phrase reprsentative human like conversation -- Chat_Agent 
+# Hybrid Generative Model for learning Phrase Reprsentative human like conversation -- Chat_Agent 
 *Asian University Machine Learning Camp - Jeju 2018*
 
 # Overview
@@ -10,7 +10,7 @@ Table of Contents
 =================
 * [Overview](#overview)
 * [Introduction](#introduction)
-  * [What is Chat Agent?](#what-is-chat-agent-?)
+  * [Chat Agent](#chat-agent)
   * [Practical Demand meets solution](#practical-demand-meets-solution)
 * [Motivation](#motivation)
 * [Goal](#goal)
@@ -28,7 +28,7 @@ Table of Contents
 
 # Introduction
 
-# What is Chat Agent?
+# Chat Agent?
 
 Design of codes through machine learning’s NLP AND ARTIFICIAL INTELLIGENCE  THAT COULD BE A GENERIC INFORMATION RETRIVAL TO SPECIFIC INFORMATION
 
@@ -55,6 +55,33 @@ World is shifting to new CONCEPTS - a new technology of search and retrieval sty
 # Goal
 
 Generic information Retrieval Master **Artificial Intelligence**.
+
+# Prerequisite
+
+1. python 3.6
+2. pip version 9
+
+# Installation
+
+1. tqdm
+2. colorama
+3. regex
+4. Python-Levenshtein
+5. requests
+
+downloading can be done from the requirements file uploaded using the command **pip install -r requirements.txt**
+
+# Getting Dataset
+
+Dataset can be downloaded from
+https://www.reddit.com/r/bigquery/comments/3cej2b/17_billion_reddit_comments_loaded_on_bigquery/?st=j9xmvats&sh=5843d18e
+
+
+# References
+
+https://medium.com/@erikhallstrm/hello-world-tensorflow-649b15aed18c
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
 
 

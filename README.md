@@ -1,4 +1,4 @@
-# Hybrid Generative Model for learning Phrase Reprsentative human like conversation -- Chat_Agent 
+# Hybrid Generative Model for learning Phrase Representative human like conversation -- Chat_Agent 
 *Asian University Machine Learning Camp - Jeju 2018*
 
 # Overview
